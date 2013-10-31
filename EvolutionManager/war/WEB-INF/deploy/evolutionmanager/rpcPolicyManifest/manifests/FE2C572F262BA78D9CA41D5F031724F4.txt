@@ -1,0 +1,2 @@
+serviceClass: fr.ensai.EvolutionManager.client.GreetingService
+path: 73452656DF92A3C5A2DC668E55396F98.gwt.rpc
